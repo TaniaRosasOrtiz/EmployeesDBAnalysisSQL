@@ -32,7 +32,9 @@ The data analysis performed can be found here: [analysis](EmployeeSQL/data_analy
 1. Import the SQL database into Pandas
 
 2. Create a histogram to visualize the most common salary ranges for employees.
+
 ![Salary Ranges Histogram](histogram_salary_ranges.png)
 
 3. Create a bar chart of average salary by title.
+
 ![Average Salary by Title](average_salary_by_title.png)
