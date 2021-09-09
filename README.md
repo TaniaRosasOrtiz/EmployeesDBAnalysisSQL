@@ -27,14 +27,12 @@ The schema creation can be found here: [schema](EmployeeSQL/schema.sql)
 
 The data analysis performed can be found here: [analysis](EmployeeSQL/data_analysis.sql)
 
-### BONUS:
+### Results:
 
-1. Import the SQL database into Pandas
-
-2. Create a histogram to visualize the most common salary ranges for employees.
+- The following histogram shows the most common salary ranges for employees.
 
 ![Salary Ranges Histogram](histogram_salary_ranges.png)
 
-3. Create a bar chart of average salary by title.
+- The bar chart displays the average salary by title.
 
 ![Average Salary by Title](average_salary_by_title.png)
